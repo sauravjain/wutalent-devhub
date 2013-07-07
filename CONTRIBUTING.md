@@ -11,4 +11,8 @@ To work with our developer community, <a href="http://www.clahub.com/agreements/
 
 - You understand the data provided here is for information only and is to be used for the benefit of the wu:talent developers community
 
+### Documentation, support and howto's
+
+All our documentation, our support (via the Issues area) and howto guides are found in the [wu:talent API Documentation repository](https://github.com/oneworldmarket/wutalent-api).
+
 
