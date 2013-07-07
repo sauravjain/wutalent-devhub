@@ -1,2 +1,14 @@
 ## wu:talent contributor agreement
-To get started, <a href="http://www.clahub.com/agreements/oneworldmarket/wutalent-devhub">sign the Contributor License Agreement</a>.
+To work with our developer community, <a href="http://www.clahub.com/agreements/oneworldmarket/wutalent-devhub"> you need to first sign the Contributor License Agreement</a>.
+
+## You need to agree to this
+
+- You will not upload any sensitive data such as passwords, API keys, or any other data that could compromise the security of oneworldmarket ltd, its partners or other developers in any way.
+
+- In event of uploading any sensitive data by accident, you agree to notify the support team at oneworldmarket immediately.
+
+- You will only push and contribute code to wu:talent plugins you have been access to contribute to explicitly by oneworldmarket ltd.
+
+- You understand the data provided here is for information only and is to be used for the benefit of the wu:talent developers community
+
+
