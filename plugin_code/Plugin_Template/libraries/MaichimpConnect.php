@@ -1,8 +1,7 @@
 <?php
 // call config and mailchimp files to grab the list
-$folderName = dirname(dirname(dirname(__FILE__)));
-require_once $folderName.'MCAPI.class.php';
-require_once $folderName.'/config.inc.php';
+require_once 'MCAPI.class.php';
+require_once 'config.inc.php';
 class MailchimpConnect
 {
   function apiConnect($apikey)
