@@ -14,6 +14,8 @@ Remember you have to <a href="http://www.clahub.com/agreements/oneworldmarket/wu
 
 - All visual templates and html is stored in the views folder
 
-- Wherever possible use our existing style sheets, however if you do need to add your own styles then sotre them in the pluginName.css style sheet
+- All images added into the images folder
+
+- Wherever possible use our existing style sheets, however if you do need to add your own styles then store them in the pluginName.css style sheet
 
 - Every folder will contain an EMPTY index.php file for security
